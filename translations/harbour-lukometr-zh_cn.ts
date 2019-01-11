@@ -335,7 +335,7 @@
     </message>
     <message>
         <source>REMOVE_DRUG_REMORSE</source>
-        <translation>Deleting drug annotation</translation>
+        <translation>删除药品注释</translation>
     </message>
 </context>
 <context>
@@ -346,7 +346,7 @@
     </message>
     <message>
         <source>SELECT_LABEL</source>
-        <translation>Select</translation>
+        <translation>选择</translation>
     </message>
     <message>
         <source>EDIT_LABEL</source>
@@ -429,7 +429,7 @@
     </message>
     <message>
         <source>BETWEEN_LABEL</source>
-        <translation>Between</translation>
+        <translation>时间跨度</translation>
     </message>
     <message numerus="yes">
         <source>MEASUREMENT_COUNT_LABEL</source>
@@ -553,7 +553,7 @@
     </message>
     <message>
         <source>SETTINGS_PHONE_NUMBER_CALL</source>
-        <translation>Call</translation>
+        <translation>拨打</translation>
     </message>
     <message>
         <source>SETTINGS_REMINDERS</source>
